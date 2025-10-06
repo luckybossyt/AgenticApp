@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "611243802394",
+    "project_id": "colorselect-ai",
+    "storage_bucket": "colorselect-ai.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:611243802394:android:50e9e4954dd6564ad3f6a3",
+        "android_client_info": {
+          "package_name": "com.example.colorist"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoLDNZwba4yztNj3637MO1hYG-SXFmoM8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
